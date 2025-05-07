@@ -34,7 +34,7 @@ Here are some ideas to get you started:
           <br/><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=Bootstrap&logoColor=white">
           <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white">
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
-          <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=plastic&logo=Apache Tomcat&logoColor=white">
+          <img src="https://img.shields.io/badge/ApacheTomcat-F8DC75?style=plastic&logo=Apache Tomcat&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=Discord&logoColor=white">
